@@ -147,21 +147,22 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (18).webp"
     ],
   "Mahavir_Jayanti":[
-    
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir1.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir2.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir3.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir4.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir5.PNG",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir6.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir8.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir10.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir11.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir12.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir13.PNG",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir14.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/MahavirJayantiFram/land/fram-16.webp"
     ],
   "Nag_Panchami":[
     
