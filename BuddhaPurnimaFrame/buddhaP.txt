@@ -38,14 +38,8 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-13.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-14.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-15.webp",
@@ -55,11 +49,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-20.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-21.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-22.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-23.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-24.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-25.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-26.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/land/fram-23.webp"
      
     ]
 }
