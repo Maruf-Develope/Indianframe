@@ -58,7 +58,11 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-15.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-16.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-17.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-18.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi9.png"
      
     ]
 }
