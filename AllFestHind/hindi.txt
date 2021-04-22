@@ -1,4 +1,144 @@
-{
+{  
+   "square1":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-8.webp"
+   ],
+   
+   "square2":[
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-15.webp"
+   ],
+   
+   "square3":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-20.webp"
+   ],
+   
+    "square4":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-20.webp"
+   ],
+
+
+
+
+  "portrait1":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha3.webp"
+   ],
+   
+   "portrait2":[
+   
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha5.webp"
+   ],
+   
+   "portrait3":[
+   
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha10.webp"
+   ],
+   
+   
+   //LandscapeFrames
+   
+   "bollywood":[
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-16.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-19.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-20.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-21.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-22.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-23.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-24.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-25.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/landscape/frame-26.webp"
+   
+   ],
+   
+   "mothersDay":[
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-12.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-13.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-14.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-15.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-16.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-17.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/MothersDayFram/land/frame-18.webp"
+   
+   ],
+   
+    "loveFrame":[
+    
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame1.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame2.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame3.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame15.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Love_Frame/landscape/frame16.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(5).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(6).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(8).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(12).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(13).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(14).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(15).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(16).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_1/frame%20(17).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_2/frame%20(15).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_2/frame%20(16).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(12).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/landscape_3/frame%20(16).webp"
+   ],
+   
+   
  
   "Sankranti":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti1.png",
@@ -206,7 +346,7 @@
      
     ],
   "Ghudi_Padwa":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi1.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-3.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-4.webp",
@@ -216,10 +356,14 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-8.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-9.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-10.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi10.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi9.png"
       
     ],
   "Dussera":[
