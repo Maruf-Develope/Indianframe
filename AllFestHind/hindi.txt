@@ -1,4 +1,11 @@
-{  
+{   "square":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-20.webp"
+   ],
+
    "square1":[
    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-2.webp",
@@ -27,15 +34,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-19.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-20.webp"
    ],
-   
-    "square4":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-18.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-20.webp"
-   ],
-
 
   "portrait":[
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha3.webp"
