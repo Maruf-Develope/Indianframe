@@ -131,28 +131,21 @@
   
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-11.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/portrait/portrait1/frame-18.webp",
     
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-1.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-16.webp",
     
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_6.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_7.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_1.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_3.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_4.png"
   
    ],
@@ -167,7 +160,6 @@
 
        "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame11.PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame12.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame13.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame14.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame15.PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame16.PNG",
@@ -176,7 +168,6 @@
        
        "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame1.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame3.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame4.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame13.png"
    ],
@@ -187,22 +178,17 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame1.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame2.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame3.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame6.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame7.png",
     
         "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna1.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna3.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna4.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna5.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna6.png",
     
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (1).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (2).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (5).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (7).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (8).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (10).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (11).png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (8).png"
    ],
    
 
