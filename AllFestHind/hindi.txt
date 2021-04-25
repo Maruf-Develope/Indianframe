@@ -133,11 +133,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-15.webp",
     
     
-   "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha8.webp",
-    
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_6.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_7.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_1.png",
@@ -157,10 +153,10 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame16.PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame17.PNG",
     
-       
-       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame1.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame4.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame13.png"
+       "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BuddhaPurnimaFrame/port/buddha8.webp"
    ],
    
    "portrait3":[
@@ -176,8 +172,13 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna5.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna6.png",
     
+      
+       
+       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/portrait/frame13.png"
+    
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (2).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (5).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (7).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/portrait/frame (8).png"
    ],
