@@ -32,14 +32,37 @@
    
    "square2":[
    
-    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-5.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-6.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-7.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-8.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-9.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/square/frame-10.webp",
+
          "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame2.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame5.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame6.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame8.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/portrait/frame8.png",
+     
+       "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-10.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-11.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Valentine_Frame/square/frame-12.webp"
     
     
    ],
@@ -52,7 +75,36 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (6).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (7).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (10).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (8).PNG"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (8).PNG",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-10.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-11.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-12.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-13.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-14.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-15.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-16.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-17.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-18.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-19.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BollywoodFrames/square/frame-20.webp",
+    
+        "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/square_2021/c-7.webp"
    ],
 
   "portrait":[
@@ -75,7 +127,17 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RamNavamiFram/port/frm-2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RamNavamiFram/port/frm-3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RamNavamiFram/port/frm-4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RamNavamiFram/port/frm-7.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/RamNavamiFram/port/frm-7.webp",
+    
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-17.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-18.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-19.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-20.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-1.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-2.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-3.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/portrait/frame-4.webp"
    
    ],
 
@@ -99,7 +161,14 @@
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-9.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-16.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/port/fram-16.webp",
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_4.png"
   
    ],
    
