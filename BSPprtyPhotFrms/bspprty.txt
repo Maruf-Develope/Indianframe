@@ -56,7 +56,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-15.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-16.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-17.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-18.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-18.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-19.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-20.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/BSPprtyPhotFrms/land1/fram-21.webp",
